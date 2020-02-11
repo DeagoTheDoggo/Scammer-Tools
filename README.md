@@ -6,7 +6,7 @@
 [![Open Issues](https://img.shields.io/github/issues-raw/DeagoTheDoggo/Scammer-Tools)]()
 
 ## Table of Contents
-* 
+* Installation
 
 ## Installation
 [Moved to here](https://github.com/DeagoTheDoggo/Scammer-Tools/blob/master/INSTALLATION.md)
