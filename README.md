@@ -10,4 +10,4 @@
 
 ## Fake Bank
 ### Installation
-[Moved to here](https://github.com/DeagoTheDoggo/Scammer-Tools/blob/master/INSTALLATION.md)
+[Moved to here](https://github.com/DeagoTheDoggo/Scammer-Tools/blob/master/Fake%20Bank/INSTALLATION.md)
