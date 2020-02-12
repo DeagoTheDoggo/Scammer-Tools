@@ -8,5 +8,6 @@
 ## Table of Contents
 * Installation
 
-## Installation
+## Fake Bank
+### Installation
 [Moved to here](https://github.com/DeagoTheDoggo/Scammer-Tools/blob/master/INSTALLATION.md)
