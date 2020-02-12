@@ -6,7 +6,8 @@
 [![Open Issues](https://img.shields.io/github/issues-raw/DeagoTheDoggo/Scammer-Tools)]()
 
 ## Table of Contents
-* Installation
+* [Fake Bank](#fake-bank)
+ * [Installation](#installation)
 
 ## Fake Bank
 ### Installation
