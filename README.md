@@ -7,7 +7,7 @@
 
 ## Table of Contents
 * [Fake Bank](#fake-bank)
- ** [Installation](#installation)
+  * [Installation](#installation)
 
 ## Fake Bank
 ### Installation
